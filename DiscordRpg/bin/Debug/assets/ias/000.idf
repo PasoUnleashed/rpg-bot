@@ -1,0 +1,7 @@
+C:0: *You approach <npc>*: Greetings, who are you?:1: Why are you here?:2:Goodbye!:E:Enter "The Script":5
+C:1: Hi! I am <npc>: (continue):0
+C:2: I am going around this realm gathering apples: Can I have one?:3:Why the fuck?:6
+C:3:Yes Of course! *he reaches out to give you the apple*:Take apple from <npc>:4
+R:4: "And remember, an apple a day keeps the goblins at bay!" he says as he walks away:0:1:5
+S:5:0
+T:6:*awkward silence*:-1
